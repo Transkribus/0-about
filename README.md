@@ -11,5 +11,7 @@ The repositories needed to run the local SWT based client are:
 - TranskribusClient
 - TranskribusSwtGui
 
+Server repositories are currently kept private but will be made OpenSource during the course of the READ project
+
 
 
