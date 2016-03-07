@@ -7,6 +7,7 @@ The repositories needed to run the local SWT based client are:
 
 - PdfUtils
 - fimagestoreClient
+- TranskribusInterfaces
 - TranskribusCore
 - TranskribusClient
 - TranskribusSwtGui
