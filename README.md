@@ -1,3 +1,5 @@
+This is a meta project for the Transkribus platform. All issues that are not related to a specific repository or affect multiple repositories should be opened here.
+
 The Transkribus platform (https://transkribus.eu) was developed during the following EU-projects:
 
 - Transcriptorium: http://transcriptorium.eu/
